@@ -1,0 +1,21 @@
+﻿ID,type,scion,loc1,root1,loc2,root2
+1,root,cab,san joaquin,5C,san joaquin,1103P
+2,root,cab,san joaquin,5C,san joaquin,freedom
+3,root,cab,san joaquin,1103P,san joaquin,freedom
+4,root,chard,san joaquin,5C,san joaquin,1103P
+5,root,chard,san joaquin,5C,san joaquin,freedom
+6,root,chard,san joaquin,1103P,san joaquin,freedom
+7,root,cab,merced,1103P,merced,freedom
+8,root,chard,merced,5C,merced,freedom
+9,root,cab,madera,5C,madera,freedom
+10,root,chard,madera,1103P,madera,freedom
+11,loc,cab,san joaquin,5C,madera,5C
+12,loc,chard,san joaquin,5C,merced,5C
+13,loc,cab,san joaquin,1103P,merced,1103P
+14,loc,chard,san joaquin,1103P,madera,1103P
+15,loc,cab,san joaquin,freedom,merced,freedom
+16,loc,cab,san joaquin,freedom,madera,freedom
+17,loc,cab,merced,freedom,madera,freedom
+18,loc,chard,san joaquin,freedom,merced,freedom
+19,loc,chard,san joaquin,freedom,madera,freedom
+20,loc,chard,merced,freedom,madera,freedom
