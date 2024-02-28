@@ -1,0 +1,21 @@
+﻿ID,type,scion,loc1,root1,loc2,root2
+1,root,Cabernet Sauvignon,Liberty,Teleki 5C,Liberty,1103 Paulsen
+2,root,Cabernet Sauvignon,Liberty,Teleki 5C,Liberty,Freedom
+3,root,Cabernet Sauvignon,Liberty,1103 Paulsen,Liberty,Freedom
+4,root,Chardonnay,Liberty,Teleki 5C,Liberty,1103 Paulsen
+5,root,Chardonnay,Liberty,Teleki 5C,Liberty,Freedom
+6,root,Chardonnay,Liberty,1103 Paulsen,Liberty,Freedom
+7,root,Cabernet Sauvignon,Livingston,1103 Paulsen,Livingston,Freedom
+8,root,Chardonnay,Livingston,Teleki 5C,Livingston,Freedom
+9,root,Cabernet Sauvignon,Ripperdan,Teleki 5C,Ripperdan,Freedom
+10,root,Chardonnay,Ripperdan,1103 Paulsen,Ripperdan,Freedom
+11,loc,Cabernet Sauvignon,Liberty,Teleki 5C,Ripperdan,Teleki 5C
+12,loc,Chardonnay,Liberty,Teleki 5C,Livingston,Teleki 5C
+13,loc,Cabernet Sauvignon,Liberty,1103 Paulsen,Livingston,1103 Paulsen
+14,loc,Chardonnay,Liberty,1103 Paulsen,Ripperdan,1103 Paulsen
+15,loc,Cabernet Sauvignon,Liberty,Freedom,Livingston,Freedom
+16,loc,Cabernet Sauvignon,Liberty,Freedom,Ripperdan,Freedom
+17,loc,Cabernet Sauvignon,Livingston,Freedom,Ripperdan,Freedom
+18,loc,Chardonnay,Liberty,Freedom,Livingston,Freedom
+19,loc,Chardonnay,Liberty,Freedom,Ripperdan,Freedom
+20,loc,Chardonnay,Livingston,Freedom,Ripperdan,Freedom
