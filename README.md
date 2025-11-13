@@ -1,5 +1,8 @@
 # Terroir and rootstock effects on leaf shape in California Central Valley vineyards
 
+Access to the published article is available under DOI: [10.1002/ppp3.10620](https://doi.org/10.1002/ppp3.10620)  
+Access to the raw image files for grapevine leaves is available under DOI: [10.5281/zenodo.17602048](https://doi.org/10.5281/zenodo.17602048)
+
 ![figure](https://github.com/DanChitwood/terroir_and_rootstock/blob/main/Fig01.png)
 **Figure 1: Experimental design. A)** A map of bonded California winery locations (black points) projected onto Köppen-Geiger climate classifications (see legend). **B)** Sampling design of Cabernet Sauvignon (purple) and Chardonnay (dark green) scions across vineyards in San Joaquin (orange), Merced (light green), and Madera (magenta) counties and Teleki 5C (yellow), 1103 Paulsen (brown), and Freedom (charcoal) rootstocks. 20 contrasts that evaluate effects of pairs of rootstocks (solid, horizontal arrows) or locations (dotted, vertical arrows) are indicated by number.
 
